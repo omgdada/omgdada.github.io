@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Donald Duck</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-04-08T07:24:45.239Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Leben</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title> 分类和标签</title>
+    <link href="http://yoursite.com/2020/04/08/%E5%88%86%E7%B1%BB%E5%92%8C%E6%A0%87%E7%AD%BE/"/>
+    <id>http://yoursite.com/2020/04/08/%E5%88%86%E7%B1%BB%E5%92%8C%E6%A0%87%E7%AD%BE/</id>
+    <published>2020-04-08T06:53:31.000Z</published>
+    <updated>2020-04-08T07:24:45.239Z</updated>
+    
+    <content type="html"><![CDATA[<p>测试档</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;测试档&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="bolg网站搭建" scheme="http://yoursite.com/categories/bolg%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
+    
+    
+      <category term="前端" scheme="http://yoursite.com/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown编辑</title>
+    <link href="http://yoursite.com/2020/04/08/%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97/"/>
+    <id>http://yoursite.com/2020/04/08/%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97/</id>
+    <published>2020-04-08T03:40:10.000Z</published>
+    <updated>2020-04-08T09:14:46.694Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="欢迎使用-MarkdownPad-2"><a href="#欢迎使用-MarkdownPad-2" class="headerlink" title="欢迎使用 MarkdownPad 2"></a>欢迎使用 MarkdownPad 2</h2><p><strong>MarkdownPad</strong> 是 Windows 平台上一个功能完善的 Markdown 编辑器。</p><h3 id="专为-Markdown-打造"><a href="#专为-Markdown-打造" class="headerlink" title="专为 Markdown 打造"></a>专为 Markdown 打造</h3><p>提供了语法高亮和方便的快捷键功能，给您最好的 Markdown 编写体验。</p><p>来试一下：</p><ul><li><strong>粗体</strong> (<code>Ctrl+B</code>) and <em>斜体</em> (<code>Ctrl+I</code>)</li><li>引用 (<code>Ctrl+Q</code>)</li><li>代码块 (<code>Ctrl+K</code>)</li><li>标题 1, 2, 3 (<code>Ctrl+1</code>, <code>Ctrl+2</code>, <code>Ctrl+3</code>)</li><li>列表 (<code>Ctrl+U</code> and <code>Ctrl+Shift+O</code>)</li></ul><a id="more"></a><h3 id="实时预览，所见即所得"><a href="#实时预览，所见即所得" class="headerlink" title="实时预览，所见即所得"></a>实时预览，所见即所得</h3><p>无需猜测您的 <a href="http://markdownpad.com" target="_blank" rel="noopener">语法</a> 是否正确；每当您敲击键盘，实时预览功能都会立刻准确呈现出文档的显示效果。</p><h3 id="自由定制"><a href="#自由定制" class="headerlink" title="自由定制"></a>自由定制</h3><p>100% 可自定义的字体、配色、布局和样式，让您可以将 MarkdownPad 配置的得心应手。</p><h3 id="为高级用户而设计的稳定的-Markdown-编辑器"><a href="#为高级用户而设计的稳定的-Markdown-编辑器" class="headerlink" title="为高级用户而设计的稳定的 Markdown 编辑器"></a>为高级用户而设计的稳定的 Markdown 编辑器</h3><p> MarkdownPad 支持多种 Markdown 解析引擎，包括 标准 Markdown 、 Markdown 扩展 (包括表格支持) 以及 GitHub 风格 Markdown 。</p><p> 有了标签式多文档界面、PDF 导出、内置的图片上传工具、会话管理、拼写检查、自动保存、语法高亮以及内置的 CSS 管理器，您可以随心所欲地使用 MarkdownPad。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;欢迎使用-MarkdownPad-2&quot;&gt;&lt;a href=&quot;#欢迎使用-MarkdownPad-2&quot; class=&quot;headerlink&quot; title=&quot;欢迎使用 MarkdownPad 2&quot;&gt;&lt;/a&gt;欢迎使用 MarkdownPad 2&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;MarkdownPad&lt;/strong&gt; 是 Windows 平台上一个功能完善的 Markdown 编辑器。&lt;/p&gt;
+&lt;h3 id=&quot;专为-Markdown-打造&quot;&gt;&lt;a href=&quot;#专为-Markdown-打造&quot; class=&quot;headerlink&quot; title=&quot;专为 Markdown 打造&quot;&gt;&lt;/a&gt;专为 Markdown 打造&lt;/h3&gt;&lt;p&gt;提供了语法高亮和方便的快捷键功能，给您最好的 Markdown 编写体验。&lt;/p&gt;
+&lt;p&gt;来试一下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;粗体&lt;/strong&gt; (&lt;code&gt;Ctrl+B&lt;/code&gt;) and &lt;em&gt;斜体&lt;/em&gt; (&lt;code&gt;Ctrl+I&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;引用 (&lt;code&gt;Ctrl+Q&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;代码块 (&lt;code&gt;Ctrl+K&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;标题 1, 2, 3 (&lt;code&gt;Ctrl+1&lt;/code&gt;, &lt;code&gt;Ctrl+2&lt;/code&gt;, &lt;code&gt;Ctrl+3&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;列表 (&lt;code&gt;Ctrl+U&lt;/code&gt; and &lt;code&gt;Ctrl+Shift+O&lt;/code&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+    
+      <category term="-语法" scheme="http://yoursite.com/categories/%E8%AF%AD%E6%B3%95/"/>
+    
+    
+      <category term="前端" scheme="http://yoursite.com/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+    
+      <category term="HTML" scheme="http://yoursite.com/tags/HTML/"/>
+    
+      <category term="JavaScript" scheme="http://yoursite.com/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客名字</title>
+    <link href="http://yoursite.com/2020/04/07/%E5%8D%9A%E5%AE%A2%E5%90%8D%E5%AD%97/"/>
+    <id>http://yoursite.com/2020/04/07/%E5%8D%9A%E5%AE%A2%E5%90%8D%E5%AD%97/</id>
+    <published>2020-04-07T12:44:00.999Z</published>
+    <updated>2020-04-08T10:35:46.510Z</updated>
+    
+    <content type="html"><![CDATA[<hr><p>title: 搭建个人网站中<br>日期: 2020-04-07 20:44:00</p><hr><p>##问题一 为什么搭建<br>##兴趣挑战<br>##问题二 如今成果</p><a id="more"></a><p>##1获得个人网站域名</p><p>##2GitHub创建个人仓库</p><p>##3安装Git</p><p>##4安装Node.js</p><p>##5安装Hexo</p><p>##6推送网站</p><p>##7更换主题</p><p>##8初识MarkDown语法</p><p>##9发布文章 </p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+&lt;p&gt;title: 搭建个人网站中&lt;br&gt;日期: 2020-04-07 20:44:00&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;##问题一 为什么搭建&lt;br&gt;##兴趣挑战&lt;br&gt;##问题二 如今成果&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2020/04/07/hello-world/"/>
+    <id>http://yoursite.com/2020/04/07/hello-world/</id>
+    <published>2020-04-07T08:48:37.180Z</published>
+    <updated>2020-04-08T10:18:23.487Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><a id="more"></a><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><!--more--><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
