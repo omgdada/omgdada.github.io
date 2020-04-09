@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Donald Duck</title>
+  <title>Lee&#39;s Blog</title>
   
-  
+  <subtitle>If you can&#39;t win the game, change the rules.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
