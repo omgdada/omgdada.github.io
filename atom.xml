@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-13T09:46:55.857Z</updated>
+  <updated>2020-04-13T09:53:10.932Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2020/04/13/%E5%9D%9A%E6%9E%9C%E4%BA%91%E5%90%8C%E6%AD%A5/"/>
     <id>http://yoursite.com/2020/04/13/%E5%9D%9A%E6%9E%9C%E4%BA%91%E5%90%8C%E6%AD%A5/</id>
     <published>2020-04-13T09:07:44.000Z</published>
-    <updated>2020-04-13T09:46:55.857Z</updated>
+    <updated>2020-04-13T09:53:10.932Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="为什么？"><a href="#为什么？" class="headerlink" title="为什么？"></a>为什么？</h1><p>最近在电脑端写毕业论文，写完一部分想要查看的话只传输到QQ文件里面，很不方便，一次次上传和下载，就想着能不能将文件直接放置在云上，自动同步文件，解放生产力。</p><a id="more"></a><h1 id="过程"><a href="#过程" class="headerlink" title="过程"></a>过程</h1><h3 id="怎么发现坚果云"><a href="#怎么发现坚果云" class="headerlink" title="怎么发现坚果云"></a>怎么发现坚果云</h3><p>去平常自己逛的论坛和一些公众号翻看，看网友评论和自己下载使用，今天就推荐给大家，自己选择的搭档。</p><ol><li>首先，根据自己的使用量来确定容量大小（毕业论文文档，一般g就够用了）</li><li>其次，看软件复杂程度，对新手的友好度</li></ol><p>综合比对下来，我选择了坚果云，唯一支持<strong>WebDAV</strong>的应用哦（后面会继续讲）</p><h3 id="坚果云是什么？"><a href="#坚果云是什么？" class="headerlink" title="坚果云是什么？"></a>坚果云是什么？</h3><p>坚果云是一款提供网盘|云盘|云服务的团队协助软件,可随时随地实现共享文件夹。坚果云网盘支持移动办公,协同办公,文件同步,数据备份,智能管理,在线编辑等功能。（官网就是这么说的）</p><h3 id="为啥选坚果云"><a href="#为啥选坚果云" class="headerlink" title="为啥选坚果云"></a>为啥选坚果云</h3><p>支持网页版+andriod（我的就是小米），每个月1G上传+3G下载（满足我近期要求）</p><h1 id="进入正题"><a href="#进入正题" class="headerlink" title="进入正题"></a>进入正题</h1><h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><ul><li>手机端：建议直接应用商店，官方有保障</li><li>电脑端：可以选择网页，也可去官网下载<h3 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h3></li></ul><ol><li>注册账号，邮箱比较好</li><li>手机端，登录以后会有说明书（“我的坚果云”里面），指导你怎么使用（有时间可以深入研究）</li><li>电脑端，安装完客户端后，选择同步数据的地方（建议c盘以外），会自动生成一个“我的坚果云”<h3 id="评价"><a href="#评价" class="headerlink" title="评价"></a>评价</h3>电脑端的话我建议打开网页操作，界面可以选择上一个版本，更符合我的逻辑，手机端的UI，我爱了，好简洁，配色也不花里胡哨。</li></ol><p><strong>之后的评价，我会在使用一段时间后再补上。</strong></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="为什么？"><a href="#为什么？" class="headerlink" title="为什么？"></a>为什么？</h1><p>最近在电脑端写毕业论文，写完一部分想要查看的话只传输到QQ文件里面，很不方便，一次次上传和下载，就想着能不能将文件直接放置在云上，自动同步文件，解放生产力。</p><a id="more"></a><h1 id="过程"><a href="#过程" class="headerlink" title="过程"></a>过程</h1><h3 id="怎么发现坚果云"><a href="#怎么发现坚果云" class="headerlink" title="怎么发现坚果云"></a>怎么发现坚果云</h3><p>去平常自己逛的论坛和一些公众号翻看，看网友评论和自己下载使用，今天就推荐给大家，自己选择的搭档。</p><ol><li>首先，根据自己的使用量来确定容量大小（毕业论文文档，一般g就够用了）</li><li>其次，看软件复杂程度，对新手的友好度</li></ol><p>综合比对下来，我选择了坚果云，唯一支持<strong>WebDAV</strong>的应用哦（后面会继续讲）</p><h3 id="坚果云是什么？"><a href="#坚果云是什么？" class="headerlink" title="坚果云是什么？"></a>坚果云是什么？</h3><p>坚果云是一款提供网盘|云盘|云服务的团队协助软件,可随时随地实现共享文件夹。坚果云网盘支持移动办公,协同办公,文件同步,数据备份,智能管理,在线编辑等功能。（官网就是这么说的）</p><h3 id="为啥选坚果云"><a href="#为啥选坚果云" class="headerlink" title="为啥选坚果云"></a>为啥选坚果云</h3><p>支持网页版+andriod（我的就是小米），每个月1G上传+3G下载（满足我近期要求）</p><h1 id="进入正题"><a href="#进入正题" class="headerlink" title="进入正题"></a>进入正题</h1><h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><ul><li>手机端：建议直接应用商店，官方有保障</li><li>电脑端：可以选择网页，也可去官网下载</li><li><h3 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h3></li></ul><ol><li>注册账号，邮箱比较好</li><li>手机端，登录以后会有说明书（“我的坚果云”里面），指导你怎么使用（有时间可以深入研究）</li><li>电脑端，安装完客户端后，选择同步数据的地方（建议c盘以外），会自动生成一个“我的坚果云”</li></ol><h3 id="评价"><a href="#评价" class="headerlink" title="评价"></a>评价</h3><p>电脑端的话我建议打开网页操作，界面可以选择上一个版本，更符合我的逻辑，手机端的UI，我爱了，好简洁，配色也不花里胡哨。<strong>之后的评价，我会在使用一段时间后再补上。</strong></p>]]></content>
     
     <summary type="html">
     
